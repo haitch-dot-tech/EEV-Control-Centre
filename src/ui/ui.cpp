@@ -83,7 +83,7 @@ void ui_update_slider(lv_obj_t *obj, int val)
 
 void ui_switchScreen(lv_obj_t *screen)
 {
-    lv_screen_load_anim(screen, LV_SCR_LOAD_ANIM_FADE_ON, 500, 0, false);
+    lv_screen_load_anim(screen, LV_SCR_LOAD_ANIM_MOVE_RIGHT, 500, 0, false);
 }
 
 void ui_handle()
