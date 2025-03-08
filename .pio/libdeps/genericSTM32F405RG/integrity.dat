@@ -1,0 +1,6 @@
+lvgl
+mikalhart/TinyGPSPlus@^1.1.0
+emotibit/EmotiBit BMI160@^0.3.3
+Adafruit_NeoPixel
+TFT_eSPI
+STM32_CAN
